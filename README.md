@@ -10,8 +10,7 @@ Execute:
 
     $ bundle
     
-Put at least a Index file in your root directory.
-
+In the repo you can find a simple index.html file. Free feel to substitute with your index.php 
 
 ## usage
 
