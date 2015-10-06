@@ -10,7 +10,7 @@ Execute:
 
     $ bundle
     
-In the repo you can find a simple index.html file. Free feel to substitute with your index.php 
+In the repo you can find a simple index.html file, free feel to replace it with your index.php 
 
 ## usage
 
